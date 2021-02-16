@@ -1,10 +1,10 @@
 
 function Home () {
 
-    return (<div>
+    return <div>
         <h1>Home</h1>
         <a href="/sobre"> pagina sobre.</a>
-     </div>)
+     </div>
 
 }
 
