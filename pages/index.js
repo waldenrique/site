@@ -1,6 +1,6 @@
 function Home () {
 
-    return <div>teste</div>
+    return <div>agora atualiza</div>
 
 }
 
