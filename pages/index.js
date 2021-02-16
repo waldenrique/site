@@ -1,6 +1,13 @@
+import Link from 'next/Link';
+
 function Home () {
 
-    return <div>agora atualiza</div>
+    return (<div>
+        <h1>Home</h1>
+        <Link href="/sobre"> 
+             <a>pagina sobre</a>
+        </Link>
+    </div>)
 
 }
 
