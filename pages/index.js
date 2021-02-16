@@ -1,13 +1,8 @@
 
 function Home () {
 
-    return <div>
-        <h1>Home</h1>
-        <a href="/sobre"> pagina sobre.</a>
-     </div>
+    return  <div>Home</div>
 
-}
-
-export default Home
+}export default Home
 
 
