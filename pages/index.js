@@ -1,7 +1,7 @@
 
 function Home () {
 
-    return  <div>waldenrique</div>
+    return  <div>lucas</div>
 
 }export default Home
 
