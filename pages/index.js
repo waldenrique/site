@@ -1,6 +1,6 @@
 function Home(){
 
-return <div>Home</div>
+return <div>waldenrique</div>
 
 }
 export default Home
